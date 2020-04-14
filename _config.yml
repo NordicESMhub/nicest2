@@ -1,0 +1,22 @@
+title:              NICEST2
+email:              annefou@geo.uio.no
+description:        Second phase of the Nordic Collaboration on e-Infrastructures for Earth System Modeling
+author:             Anne Fouilloux
+baseurl:            "/nicest2"
+url:                "https://noresmhub.github.io"
+
+# Social Profiles
+twitter_username:   AnneFouilloux
+github_username:    NordicESMHub
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
