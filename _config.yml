@@ -3,7 +3,7 @@ email:              annefou@geo.uio.no
 description:        Second phase of the Nordic Collaboration on e-Infrastructures for Earth System Modeling
 author:             Anne Fouilloux
 baseurl:            "/nicest2"
-url:                "https://noresmhub.github.io"
+url:                "https://nordicesmhub.github.io"
 
 # Social Profiles
 twitter_username:   AnneFouilloux
