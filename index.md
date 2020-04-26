@@ -10,7 +10,7 @@ background: '/img/nicest2-background.png'
 #### NeIC Wikis
 
 - [External wiki](https://wiki.neic.no/wiki/NICEST2)
-- [Internal wiki](https://wiki.neic.no/int/NICEST)
+- [Internal wiki](https://wiki.neic.no/int/NICEST) (login required)
 
 ***
 
