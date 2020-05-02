@@ -20,3 +20,28 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+# Icon tag config
+icon-tag:
+  # in posts
+  question: fa-question-circle
+  solution: fa-eye
+  hands_on: fa-pencil
+  comment: fa-commenting-o
+  tip: fa-lightbulb-o
+  objectives: fa-bullseye
+  requirements: fa-check-circle
+  hourglass: fa-hourglass-end
+  keypoints: fa-key
+  tool: fa-wrench
+  workflow: fa-project-diagram
+  feedback: fa-comments-o
+  congratulations: fa-thumbs-up
+  trophy: fa-trophy
+  warning: fa-warning
+  details: fa-info-circle
+  exchange: fa-exchange
+  wf-input: fa-chevron-circle-right
+  sticky-note: fa-sticky-note
+  new-history: fa-plus
+  search: fa fa-search

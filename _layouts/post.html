@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 ---
 
 <!-- Page Header -->
@@ -15,7 +15,7 @@ layout: default
           <div class="post-heading">
             <h1>{{ page.title }}</h1>
             {% if page.subtitle %}
-            <h2 class="subheading">{{ page.subtitle }}</h2>
+            <h2 data-toc-skip class="subheading">{{ page.subtitle }}</h2>
             {% endif %}
             <span class="meta">Posted by
               <a href="#">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</a>
@@ -28,11 +28,24 @@ layout: default
     </div>
   </header>
 
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
+<div class="container main-content">
 
-        {{ content }}
+    <section class="post">
+        <h1 data-toc-skip>{{ page.title }}</h1>
+
+        <div class="container">
+            <div class="row">
+                <!-- sidebar, which will move to the top on a small screen -->
+                <div class="col-sm-2">
+                    <nav id="toc" data-toggle="toc" class="sticky-top"></nav>
+                </div>
+                <div class="col-sm-10">
+                    {{ content }}
+
+
+                </div>
+            </div>
+        </div>
 
         <hr>
 
@@ -49,6 +62,7 @@ layout: default
 
         </div>
 
-      </div>
-    </div>
-  </div>
+
+    </section>
+</div>
+
