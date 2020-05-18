@@ -13,7 +13,7 @@ background: '/img/posts/first_newsletter.png'
 >
 {: .agenda}
 
-Download [NICEST2 newletter in PDF format](/nicest2/img/posts/FirstNICEST2Newsletter.pdf)
+Download [NICEST2 newsletter in PDF format](/nicest2/img/posts/FirstNICEST2Newsletter.pdf)
 
 # NICEST2 project preparation
 
