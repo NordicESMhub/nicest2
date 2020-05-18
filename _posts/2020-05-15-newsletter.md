@@ -29,8 +29,7 @@ The first draft of the [NICEST2 Project Plan](https://nordicesmhub.github.io/nic
 
 # NICEST2 expected benefits
 
-*Strengthen the Nordic position within climate modeling by leveraging, reinforcing and complementing ongoing initiatives to enable a future joint Nordic Climate Model Intercomparison Project and Nordic Climate-as-a-service.
-*
+*Strengthen the Nordic position within climate modeling by leveraging, reinforcing and complementing ongoing initiatives to enable a future joint Nordic Climate Model Intercomparison Project and Nordic Climate-as-a-service.*
 
 - Enhance the performance and optimize and homogenize workflows used, so climate models (like EC-EARTH and NorESM) can be run in an efficient way on future computing resources (like EuroHPC).
 - Widen the usage and expertise on evaluating Earth System Models and develop new diagnostic modules for the Nordic region within the ESMValTool
