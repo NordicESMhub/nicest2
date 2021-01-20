@@ -10,3 +10,4 @@ background: '/img/workflows.png'
 - Ease the building of Reproducible Workflows for Earth System Modelling Systems.
 - Enhance the performance and optimize and homogenize workflows used, so climate models (like EC-EARTH and NorESM) can be run in an efficient way on future computing resources (like EuroHPC).
 
+[A short video explaining what the "Common Workflow Language" is in 64 seconds](https://youtu.be/86eY8xs-Vo8)
