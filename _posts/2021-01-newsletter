@@ -22,7 +22,7 @@ can help to ensure exactly the same computing environment everywhere from your
 laptop to the most powerful HPC.
 
 [NorESM](https://github.com/NorESMhub/NorESM) can now be successfully run within a docker container:
-- For mroe information check our [NorESM docker repository](https://github.com/NorESMhub/NorESMCAM_docker).
+- For more information check the [NorESM docker github repository](https://github.com/NorESMhub/NorESMCAM_docker).
 
 Since October 2020, [Singularity is now available on HPCs from Sigma2](https://www.sigma2.no/experimental-support-singuarlity-containers-all-sigma2-systems)
 (Saga, Fram and Betzy), and our next challenge will be to develop portable containers to carry out tests with multiple nodes and assess the performance of containerized applications 
