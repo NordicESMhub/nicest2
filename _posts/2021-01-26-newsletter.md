@@ -6,7 +6,7 @@ date: 2021-02-04
 background: '/img/posts/newsletter.png'
 ---
 
-**Contributors**: *Jean Iaquinta*, *Anne Fouilloux*.
+**Contributors**: *Prashanth Dwarakanath*, *Jean Iaquinta*, *Hamish Struthers*, *Anne Fouilloux*.
 
 > ### Agenda
 > {:.no_toc}
@@ -19,7 +19,7 @@ background: '/img/posts/newsletter.png'
 Download [NICEST2 newsletter in PDF format](/nicest2/img/posts/2021-02-NICEST2Newsletter.pdf)
 
 
-# Glossary for Nordic Climate
+## Glossary for Nordic Climate
 
 As part of the [NICEST2 project](https://neic.no/nicest2), we have started a list of definitions of commonly used [Climate Terms in the Nordic countries](https://nordicesmhub.github.io/nordic-climate-glossary/). 
 
@@ -29,7 +29,7 @@ The aim is also to include:
 
 See our [CONTRIBUTING guidelines](https://github.com/NordicESMhub/nordic-climate-glossary/blob/main/CONTRIBUTING.md) for adding your institutions, data repository, etc.
 
-# ESM diagnostic expert group
+## ESM diagnostic expert group
 
 - Are you working in a Nordic/Baltic country and
 - Are you using ESMValTool and
@@ -42,13 +42,13 @@ We would love to hear from you! We aim at creating an ESM diagnostic expert grou
 
 Please contact the NICEST2 project Manager (annefou-at-geo.uio.no).
 
-# Support for ESGF node administrators in the Nordic
+## Support mailing list for ESGF node administrators in the Nordic
 
 To facilitate exchange of knowledge and provide support to ESGF node administrators,
 a new mailing list has been created. If you are an ESGF node administrator in a Nordic/Baltic country
 and did not receive any email about it, contact the NICEST2 Project Manager (annefou-at-geo.uio.no).
 
-# Running NorESM with containers
+## Running NorESM with containers
 
 Reproducing ESM simulations is particularly hard but container technology
 can help to ensure exactly the same computing environment everywhere from your
@@ -69,24 +69,24 @@ Within NICEST2, we are particularly interested in offering a simple framework fo
 
 More information is available on our [NICEST2 Work Package 4 webpage](https://nordicesmhub.github.io/nicest2/2020/05/04/plan.html#wp4-esm-workflows-to-efficiently-run-noresm-and-ec-earth-on-eurohpc).
 
-# Workshops & other events
+## Workshops & other events
 
 **Save the dates**
 
-## Hackathon on FAIR Climate Data
+### Hackathon on FAIR Climate Data
 
 The NICEST2 project is organizing an hackathon on FAIR Climate data.
 We plan to offer both training and hands-on and will be using the 
 [EOSC-Nordic JupyterLab](https://www.sigma2.no/nird-service-platform) deployed with the [NIRD Service Platform](https://www.sigma2.no/nird-service-platform).
 
-### Draft program
+#### Draft program
 
 - Thursday 11 Mar, afternoon. Training, FAIR ontology, verification of FAIRness (FAIR score). Describe CMOR, CF-4, ES-DOC, ESGF.
 - Tuesday 16 Mar, afternoon. Hands on.
 - Wednesday 17 Mar, afternoon. Hands on.
 
 
-## Hackathon on ESMValTool for users
+### Hackathon on ESMValTool for users
 
 An hackathon on ESM diagnostic tools (ESMValTool) will be organized in March as a one day event.
 
