@@ -71,28 +71,35 @@ More information is available on our [NICEST2 Work Package 4 webpage](https://no
 
 ## Workshops & other events
 
-**Save the dates**
+### NICEST2 events: save the dates
 
-### Hackathon on FAIR Climate Data
+#### Hackathon on FAIR Climate Data
 
 The NICEST2 project is organizing an hackathon on FAIR Climate data.
 We plan to offer both training and hands-on and will be using the 
 [EOSC-Nordic JupyterLab](https://www.sigma2.no/nird-service-platform) deployed with the [NIRD Service Platform](https://www.sigma2.no/nird-service-platform).
 
-#### Draft program
+##### Draft program
 
 - Thursday 11 Mar, afternoon. Training, FAIR ontology, verification of FAIRness (FAIR score). Describe CMOR, CF-4, ES-DOC, ESGF.
 - Tuesday 16 Mar, afternoon. Hands on.
 - Wednesday 17 Mar, afternoon. Hands on.
 
 
-### Hackathon on ESMValTool for users
+#### Hackathon on ESMValTool for users
 
 An hackathon on ESM diagnostic tools (ESMValTool) will be organized in March as a one day event.
 
 - Possible dates: 9-12+18+19 / 23+24  March 2021
 
-Up to date information on all our events and events from our partners is posted on the [NordicESMHub event page](https://nordicesmhub.github.io/events).
+More information will be posted very soon on the [NordicESMHub event page](https://nordicesmhub.github.io/events).
+
+### Events from partners
+
+- [NordicESMHub event page](https://nordicesmhub.github.io/events): list of up to date information on all our events and events from our partners.
+- [CodeRefinery workshops/events](https://coderefinery.org/workshops/upcoming/): CodeRefinery workshops aim grow researchers' software best practices skills and to consolidate knowledge learnt during Carpentries workshops or from prior experience. The focus is on professional tools for efficiently developing and maintaining research software.
+- [IS-ENES events](https://is.enes.org/events): IS-ENES offers events for the Earth’s climate system modelling community.
+- [Copernicus Climate Change Service event page](https://climate.copernicus.eu/events): C3S organises a range of events to learn how to use Copernicus Climate data and associated online services. They also advertise numerous events organised by other organisations. 
 
 ## Contribute to the NICEST2 Newsletter
 
