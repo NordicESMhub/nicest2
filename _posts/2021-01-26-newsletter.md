@@ -97,9 +97,10 @@ More information will be posted very soon on the [NordicESMHub event page](https
 ### Events from partners
 
 - [NordicESMHub event page](https://nordicesmhub.github.io/events): list of up to date information on all our events and events from our partners.
-- [CodeRefinery workshops/events](https://coderefinery.org/workshops/upcoming/): CodeRefinery workshops aim grow researchers' software best practices skills and to consolidate knowledge learnt during Carpentries workshops or from prior experience. The focus is on professional tools for efficiently developing and maintaining research software.
 - [IS-ENES events](https://is.enes.org/events): IS-ENES offers events for the Earth’s climate system modelling community.
 - [Copernicus Climate Change Service event page](https://climate.copernicus.eu/events): C3S organises a range of events to learn how to use Copernicus Climate data and associated online services. They also advertise numerous events organised by other organisations. 
+- [EOSC-Nordic event page](https://www.eosc-nordic.eu/events/): upcoming and past events with lots of information about Open Science and Cliate Science demonstrators.
+- [CodeRefinery workshops/events](https://coderefinery.org/workshops/upcoming/): CodeRefinery workshops aim grow researchers' software best practices skills and to consolidate knowledge learnt during Carpentries workshops or from prior experience. The focus is on professional tools for efficiently developing and maintaining research software.
 
 ## Contribute to the NICEST2 Newsletter
 
