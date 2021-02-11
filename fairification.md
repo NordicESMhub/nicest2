@@ -9,3 +9,6 @@ background: '/img/fairification.png'
 
 - Create a roadmap for FAIRification of Nordic climate model data.
 
+# FAIR hackathon on Climate data
+
+From FAIR principles to FAIR in practices. More information and registration [here](https://nordicesmhub.github.io/nicest2-fair-hackathon/).
