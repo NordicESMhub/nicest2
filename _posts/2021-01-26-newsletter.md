@@ -90,7 +90,8 @@ We plan to offer both training and hands-on and will be using the
 
 An hackathon on ESM diagnostic tools (ESMValTool) will be organized in March as a one day event.
 
-- Possible dates: 9-12+18+19 / 23+24  March 2021
+- **The date is now fixed**: 12th March 2021 (09:30 - 14:30 CET)
+- **Registration will be open very soon**
 
 More information will be posted very soon on the [NordicESMHub event page](https://nordicesmhub.github.io/events).
 
