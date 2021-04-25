@@ -67,14 +67,13 @@ Three half-days (12, 16-17 March) event organized by NICEST2. The hackathon was 
 	- [DMP online](https://youtu.be/3GsvzOdLLWM) (Joakim Philipson, 75 mins.)
 
 After the presentations, we had a general discussion to decide on the working groups for the hackathon itself. We had 3 working groups:
-	- **FAIR climate cookbook**: can we develop a guide for climate scientists to help them to make their data FAIR?
-		- During our discussions, we tried to identify tools that are needed for capturing metadata. Some tools such as ESMValTool or Galaxy have already embedded provenance metadata and we should try to make sue of these tools as much as possible to improve the FAIRness of climate datae had interesting discussions on how to integrate DMPs and researchers workflows to ensure metadata is always propagated (automatically).
-	- **Reprohack**: reproduce scientific results detailed in a select published paper.
-		- We selected the following paper: Humanitarian need drives multilateral disaster aid by Dellmuth, Lisa M. and Bender, Frida A.-M. and Jönsson, Aiden R. and Rosvold, Elisabeth L. and von Uexkull, Nina. PNAS January 26, 2021 118 (4) e2018293118; https://doi.org/10.1073/pnas.2018293118.
-		- We had a lot of interesting discussions during our attempt to reproduce this paper. This is a very interesting exercise and we will publish the final report very soon where we provide feedback for publishers, data archive provider, Universities, libraries and research institutes, and of course the authors.
-	- **Ontogogies**: review existing ontologies used in the climate community.
-		- Outcome of the discussion shows that there is a need for better coordination of the different existing initiatives.
-
+- **FAIR climate cookbook**: can we develop a guide for climate scientists to help them to make their data FAIR?
+	- During our discussions, we tried to identify tools that are needed for capturing metadata. Some tools such as ESMValTool or Galaxy have already embedded provenance metadata and we should try to make sue of these tools as much as possible to improve the FAIRness of climate datae had interesting discussions on how to integrate DMPs and researchers workflows to ensure metadata is always propagated (automatically).
+- **Reprohack**: reproduce scientific results detailed in a select published paper.
+	- We selected the following paper: Humanitarian need drives multilateral disaster aid by Dellmuth, Lisa M. and Bender, Frida A.-M. and Jönsson, Aiden R. and Rosvold, Elisabeth L. and von Uexkull, Nina. PNAS January 26, 2021 118 (4) e2018293118; https://doi.org/10.1073/pnas.2018293118.
+	- We had a lot of interesting discussions during our attempt to reproduce this paper. This is a very interesting exercise and we will publish the final report very soon where we provide feedback for publishers, data archive provider, Universities, libraries and research institutes, and of course the authors.
+- **Ontogogies**: review existing ontologies used in the climate community.
+	- Outcome of the discussion shows that there is a need for better coordination of the different existing initiatives.
 
 ### Identified bottlenecks for running efficiently NorESM and EC-Earth on euroHPC
 
