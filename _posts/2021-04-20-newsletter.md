@@ -15,8 +15,6 @@ background: '/img/posts/newsletter.png'
 
 Download [NICEST2 newsletter in PDF format](/nicest2/img/posts/2021-04-NICEST2Newsletter.pdf)
 
-## Project status and updates
-
 ### A glossary for mutual understanding
 
 Improving Earth System Models require expertise by scientists from different disciplines and practitioners working together. Recent experience, for instance during the GPU hackathon, showed that some words are commonly used by the Nordic ESM community but often unknown or have a different meaning by GPU specialists. 
@@ -68,10 +66,10 @@ Three half-days (12, 16-17 March) event organized by NICEST2. The hackathon was 
 
 After the presentations, we had a general discussion to decide on the working groups for the hackathon itself. We had 3 working groups:
 - **FAIR climate cookbook**: can we develop a guide for climate scientists to help them to make their data FAIR?
-	- During our discussions, we tried to identify tools that are needed for capturing metadata. Some tools such as ESMValTool or Galaxy have already embedded provenance metadata and we should try to make sue of these tools as much as possible to improve the FAIRness of climate datae had interesting discussions on how to integrate DMPs and researchers workflows to ensure metadata is always propagated (automatically).
+	- During our discussions, we tried to identify tools that are needed for capturing metadata. Some tools such as ESMValTool or Galaxy have already embedded provenance metadata and we should try to use these tools as much as possible to improve the FAIRness of climate data. We also had interesting discussions on how to integrate DMPs and researchers workflows to ensure metadata is always propagated (automatically).
 - **Reprohack**: reproduce scientific results detailed in a select published paper.
-	- We selected the following paper: Humanitarian need drives multilateral disaster aid by Dellmuth, Lisa M. and Bender, Frida A.-M. and Jönsson, Aiden R. and Rosvold, Elisabeth L. and von Uexkull, Nina. PNAS January 26, 2021 118 (4) e2018293118; https://doi.org/10.1073/pnas.2018293118.
-	- We had a lot of interesting discussions during our attempt to reproduce this paper. This is a very interesting exercise and we will publish the final report very soon where we provide feedback for publishers, data archive provider, Universities, libraries and research institutes, and of course the authors.
+	- We selected the following paper: Humanitarian need drives multilateral disaster aid by Dellmuth, Lisa M. and Bender, Frida A.-M. and Jönsson, Aiden R. and Rosvold, Elisabeth L. and von Uexkull, Nina. PNAS January 26, 2021 118 (4) e2018293118; [https://doi.org/10.1073/pnas.2018293118.](https://doi.org/10.1073/pnas.2018293118).
+	- We had a lot of interesting discussions during our attempt to reproduce this paper. This is a very interesting exercise and we will publish the final report very soon where we provide feedback for publishers, data archive provider, Universities, libraries and research institutes, and of course the authors. Our first conclusion was that we need all these actors to be involved to make significant improvement in the FAIRification process: working in silo on this topic is not an option anymore. However, we also reckon that we still do not have a common understanding on FAIR.
 - **Ontogogies**: review existing ontologies used in the climate community.
 	- Outcome of the discussion shows that there is a need for better coordination of the different existing initiatives.
 
@@ -81,7 +79,7 @@ Our first report on the identified bottlenecks for an efficient usage of Nordic 
 
 We highlight below the most important findings:
 - ESMs used in the Nordic countries are clearly not ready for EuroHPC and very little dedicated funding from the scientific community is used for porting existing codes to future architectures. Providers have hired several specialists to support the scientific community but the commitment from the scientific community is not there.
-- Exchange of knowledge of involved staff (scientists, RSEs, technical support) would be very helpful. For instance, being able to organize meetings/hackathons (oneline or face to face) with both experts from NorESM and EC-EARTH has been highlighted as an important requirements by those involved in the GPU hackathon.
+- Exchange of knowledge of involved staff (scientists, RSEs, technical support) would be very helpful. For instance, being able to organize meetings/hackathons (online or face to face) with both experts from NorESM and EC-EARTH has been highlighted as an important requirements by those involved in the GPU hackathon.
 - Code refactoring and best software practices are the most important component for efficient usage of new architecture, including EuroHPC.
 
 
