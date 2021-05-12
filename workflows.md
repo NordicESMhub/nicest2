@@ -5,6 +5,13 @@ description: Earth System Modelling workflow management tools for improved perfo
 background: '/img/workflows.png'
 ---
 
+> ### Table of content
+> {:.no_toc}
+> 1. TOC
+> {:toc}
+>
+{: .agenda}
+
 # Objectives
 
 - Ease the building of Reproducible Workflows for Earth System Modelling Systems.
@@ -34,3 +41,23 @@ and model development purposes for which using a High Performance Computer (HPC)
 Singularity is now available on HPCs from Sigma2 (Saga, Fram and Betzy), and our next challenge will be
 to develop portable containers to carry out tests with multiple nodes and assess the performance of containerized applications 
 compared to "bare metal" (ran directly on the host).
+
+# Outputs of the projects
+
+- [NICEST2 WP4: Update about ESM workfows to efficiently run NorESM/CESM and EC-Earth on euroHPC](https://doi.org/10.5281/zenodo.4635687) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4635687.svg)](https://doi.org/10.5281/zenodo.4635687)
+
+## Task 4.1 (Sigma2/UiO, NORCE, NERSC, FMI): Reproducible workflows for deploying and running ESM on future HPCs (M4 – M30)
+
+- [NordicESMhub/eosc-nordic-jupyterhub: v0.8.2 JupyterHub conda environments for the NIRD toolkit](https://doi.org/10.5281/zenodo.4626757) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4626757.svg)](https://doi.org/10.5281/zenodo.4626757)
+
+- [NordicESMhub/container-noresm: Version 2.0.0 NorESM container for running on HPC with singularity](https://doi.org/10.5281/zenodo.4670215) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4670215.svg)](https://doi.org/10.5281/zenodo.4670215)
+
+- [NordicESMhub/noresm-containers-timings: Jupyter notebook for plotting timings from NorESM/CESM simulations](https://doi.org/10.5281/zenodo.4670175) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4670175.svg)](https://doi.org/10.5281/zenodo.4670175)
+
+
+## Task 4.2 (NORCE, Sigma2/UiO, FMI): Efficiency of Nordic ESMs on future euroHPC (M4 – M36)
+
+- [Final results from the CSC GPU hackathon for NorESM/NICEST2](https://doi.org/10.5281/zenodo.4719793) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4719793.svg)](https://doi.org/10.5281/zenodo.4719793)
+
+- Our first report on the identified bottlenecks for an efficient usage of Nordic ESMs on EuroHPC is now available [online](https://doi.org/10.5281/zenodo.4749515). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4749515.svg)](https://doi.org/10.5281/zenodo.4749515)
+
