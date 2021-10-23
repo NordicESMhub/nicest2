@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NICEST2 Status and deliverables"
+title: "NICEST2 Status, progress and challenges"
 subtitle: "23th October 2021"
 date: 2021-10-23
 background: '/img/posts/bernd-klutsch-nE2HV5AUXFo-unsplash.jpg'
@@ -153,11 +153,10 @@ A large part of CMIP6 datasets is already available as Zarr, a cloud-optimized f
 - Deliverables
 	- Quality control for deliverables: internal review (from someone outside WP), then PM/PO and then SG
 	- Published in zenodo: 
-		- NICEST2 - D3.3: Report on NICEST2 FAIR climate data hackathon (M9)
-		- NICEST2 - D4.5: First report on the identified bottlenecks for an efficient usage of Nordic ESMs on EuroHPC (M9)
-		- NICEST2 - D2.1: "Report on the workshop/hackathon to discuss about how to use ESMValTool with a focus on the Nordic countries and collect user requirements for the two training materials"  (M12)
-		- NICEST2 - D4.1: "Identification of the Nordic ESM community needs for ESM workflows" (M12)
-	- Use ORCID when publishing
+		- [NICEST2 - D3.3](https://zenodo.org/record/4944686): Report on NICEST2 FAIR climate data hackathon (M9)
+		- [NICEST2 - D4.5](https://zenodo.org/record/4749515): First report on the identified bottlenecks for an efficient usage of Nordic ESMs on EuroHPC (M9)
+		- [NICEST2 - D2.1](https://doi.org/10.5281/zenodo.5571344): "Report on the workshop/hackathon to discuss about how to use ESMValTool with a focus on the Nordic countries and collect user requirements for the two training materials"  (M12)
+		- [NICEST2 - D4.1](https://doi.org/10.5281/zenodo.5571416): "Identification of the Nordic ESM community needs for ESM workflows" (M12)
 
 
 ### Next steps
