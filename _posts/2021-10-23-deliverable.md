@@ -55,28 +55,28 @@ In this post, you will learn about the NICEST2 project status & updates.
 
 ## WP3: FAIR climate data for NorESM and EC-Earth
 
-<img src="https://nordicesmhub.github.io/nicest2/img/posts/WP3_dow.png" width="500"/>
+<img src="https://nordicesmhub.github.io/nicest2/img/posts/WP3_dow.png" width="800"/>
 
 ### Task 3.1 - Support for Nordic ESGF hosting of CMIP6 data
 
 - **Success**: Support Nordic ESGF operations.
 
-<img src="https://nordicesmhub.github.io/nicest2/img/posts/esgf-1.png" width="500"/>
+<img src="https://nordicesmhub.github.io/nicest2/img/posts/esgf-1.png" width="800"/>
 
 - **Challenge**: How to widen to collaboration/participation/interest in ESGF operations. 
 
-<img src="https://nordicesmhub.github.io/nicest2/img/posts/esgf-2.png" width="500"/>
+<img src="https://nordicesmhub.github.io/nicest2/img/posts/esgf-2.png" width="700"/>
 
 - **Future of ESGF?**
 
 A large part of CMIP6 datasets is already available as Zarr, a cloud-optimized format. In this context, where end-users would like to have both access and computing resources to manipulate and analyze data, it is unclear if ESGF (as it is now) will be pursued in the future.
 
-<img src="https://nordicesmhub.github.io/nicest2/img/posts/esgf-3.png" width="500"/>
+<img src="https://nordicesmhub.github.io/nicest2/img/posts/esgf-3.png" width="600"/>
 
 ### Task 3.2 -  Towards FAIR Nordic climate modeling data 
 
 
-<img src="https://nordicesmhub.github.io/nicest2/img/posts/fair-1.png" width="500"/>
+<img src="https://nordicesmhub.github.io/nicest2/img/posts/fair-1.png" width="700"/>
 
 - **Success**: Workshop held on March 11, 16 & 17, 2021 'NICEST2 FAIR climate data hackathon'
 	- Collaboration between NICEST2 and EOSC-Nordic projects.
@@ -95,7 +95,7 @@ A large part of CMIP6 datasets is already available as Zarr, a cloud-optimized f
 	- **Lesson**: considerable effort is required in follow-up to sustain the initial momentum from workshops/hackathons.
 
 
-<img src="https://nordicesmhub.github.io/nicest2/img/posts/fair-2.png" width="300"/>
+<img src="https://nordicesmhub.github.io/nicest2/img/posts/fair-2.png" width="500"/>
 
 ## WP4 - Earth System Model Workflows
 
@@ -115,7 +115,7 @@ A large part of CMIP6 datasets is already available as Zarr, a cloud-optimized f
 - Galaxy was selected after assessing practices & needs (Deliverable 4.1)
 	- Supports a wide range of users with different levels of expertise
 	- Comes with a Graphical Workflow Editor
-<img src="https://nordicesmhub.github.io/nicest2/img/posts/wp4-1.png" width="600"/>
+<img src="https://nordicesmhub.github.io/nicest2/img/posts/wp4-1.png" width="800"/>
 	- Can interoperate with other WMSs and will be CWL compatible
 	- Accommodates metadata
 
@@ -134,7 +134,7 @@ A large part of CMIP6 datasets is already available as Zarr, a cloud-optimized f
 
 - Successfuly ran containerized ESMs on HPC and HPC-cloud
 	- Fram/Betzy@Sigma2, PizDaint@CSCS, Puhti@CSC, NREC/GCP/OCI
-<img src="https://nordicesmhub.github.io/nicest2/img/posts/wp4-2.png" width="500"/>
+<img src="https://nordicesmhub.github.io/nicest2/img/posts/wp4-2.png" width="700"/>
 	- Preparing LUMI Pilot (testing on Eiger@CSCS in the meantime)
 
 - Defined real-world cases & simulation parameters for benchmarking
