@@ -159,7 +159,7 @@ A large part of CMIP6 datasets is already available as Zarr, a cloud-optimized f
 		- [NICEST2 - D4.1](https://doi.org/10.5281/zenodo.5571416): "Identification of the Nordic ESM community needs for ESM workflows" (M12)
 
 
-### Next steps
+### Next steps for WP1
 
 #### Improve communication
 
