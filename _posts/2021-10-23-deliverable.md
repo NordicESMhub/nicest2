@@ -168,8 +168,8 @@ In this context, where end-users would like to have both access and computing re
 
 #### Improve communication
 
-- Post regular training & events on NordicESMHub website
-	- https://nordicesmhub.github.io/events: see upcoming trainings on Python and OpenMP/LUMI
+- Post regular [training & events](https://nordicesmhub.github.io/events) on [NordicESMHub website](https://nordicesmhub.github.io):
+	- [https://nordicesmhub.github.io/events](https://nordicesmhub.github.io/events): see upcoming trainings on Python and OpenMP/LUMI
 	- Send message to PM to add new events
 - Improve internal and external communication
 	- More regular newsletters & highlights
