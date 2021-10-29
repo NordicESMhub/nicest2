@@ -69,7 +69,12 @@ In this post, you will learn about the NICEST2 project status & updates.
 
 - **Future of ESGF?**
 
-A large part of CMIP6 datasets is already available as Zarr, a cloud-optimized format. In this context, where end-users would like to have both access and computing resources to manipulate and analyze data, it is unclear if ESGF (as it is now) will be pursued in the future.
+A large part of CMIP6 datasets is already available as Zarr, a cloud-optimized format. For more information, check the [Pangeo CMIP6 documentation](https://pangeo-data.github.io/pangeo-cmip6-cloud/) and [youtube video on AWS ASDI CMIP6 Data Information Session](https://youtu.be/C0UhiiGgbWA).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C0UhiiGgbWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In this context, where end-users would like to have both access and computing resources to manipulate and analyze data, it is unclear if ESGF (as it is now) will be pursued in the future.
+
 
 <img src="https://nordicesmhub.github.io/nicest2/img/posts/esgf-3.png" width="600"/>
 
