@@ -132,7 +132,7 @@ In this context, where end-users would like to have both access and computing re
 	- Similar recipes work for CESM/NorESM & EC-Earth
 	- Leverages native performances and provides BFB reproducibility
 
-→ Will be introduced to NorESM users ([2021 workshop](https://nordicesmhub.github.io/NorESM_user_workshop_2021).
+→ Will be introduced to NorESM users ([2021 workshop](https://nordicesmhub.github.io/NorESM_user_workshop_2021)).
 
 ### Task 4.2 - Achievements
 
