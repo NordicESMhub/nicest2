@@ -6,6 +6,8 @@ date: 2021-10-23
 background: '/img/posts/bernd-klutsch-nE2HV5AUXFo-unsplash.jpg'
 ---
 
+Download [NICEST2 newsletter in PDF format](/nicest2/img/posts/2021-11-NICEST2Newsletter.pdf)
+
 In this post, you will learn about the NICEST2 project status & updates.
 
 #### Authors:
