@@ -15,6 +15,7 @@ background: '/img/posts/newsletter.png'
 
 Download [January 2022 NICEST2 newsletter in PDF format](/nicest2/img/posts/2022-01-NICEST2Newsletter.pdf)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5891476.svg)](https://doi.org/10.5281/zenodo.5891476)
 
 # FAIR for Climate Science in the Nordics 
 
