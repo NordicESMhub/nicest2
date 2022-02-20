@@ -17,7 +17,9 @@ background: '/img/nicest2-background.png'
 
 <iframe src="NICEST2InfoBoard.html" height="1200" width="800" title="NICEST2 InfoBoard"></iframe>
 
-# Blog and Newsletters
 
 ***
+
+
+# Blog and Newsletters
 
