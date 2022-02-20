@@ -59,8 +59,8 @@ $feedback-color: #86D486;
         color: $color;
         vertical-align: 1em;
         float: left;
-        border-top-left-radius: 8px;
-        border-top-right-radius: 8px;
+        border-top-left-radius: 4px;
+        border-top-right-radius: 4px;
 
         .fa {
             padding-right: $post-box-spacing / 5;
