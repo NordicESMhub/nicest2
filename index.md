@@ -15,7 +15,7 @@ background: '/img/nicest2-background.png'
 - [External wiki](https://wiki.neic.no/wiki/NICEST2)
 - [Internal wiki](https://wiki.neic.no/int/NICEST) (login required)
 
-<iframe src="NICEST2InfoBoard.html" height="800" width="500" title="NICEST2 InfoBoard"></iframe>
+<iframe src="NICEST2InfoBoard.html" height="1200" width="600" title="NICEST2 InfoBoard"></iframe>
 
 ***
 
