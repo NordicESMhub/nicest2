@@ -6,13 +6,6 @@ date: 2022-01-20
 background: '/img/posts/newsletter.png'
 ---
 
-> ### Agenda
-> {:.no_toc}
-> 1. TOC
-> {:toc}
->
-{: .agenda}
-
 Download [February 2022 NICEST2 InfoBoard in PDF format](/nicest2/img/posts/2022-02-NICEST2InfoBoard.pdf)
 
 
