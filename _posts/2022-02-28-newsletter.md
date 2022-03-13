@@ -2,7 +2,7 @@
 layout: post
 title: "February 2022 NICEST2 InfoBoard"
 subtitle: "28th February 2022"
-date: 2022-01-20
+date: 2022-02-28
 background: '/img/posts/newsletter.png'
 ---
 
