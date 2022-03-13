@@ -9,7 +9,7 @@ background: '/img/nicest2-background.png'
 
 NICEST2 is funded by the [Nordic e-Infrastructure Collaboration (NeIC)](https://neic.no) which facilitates development and operation of high-quality e-infrastructure solutions in areas of joint Nordic interest.
 
-<iframe src="NICEST2InfoBoard.html" height="1200" width="800" title="NICEST2 InfoBoard"></iframe>
+<iframe src="March2022/NICEST2InfoBoard.html" height="1200" width="800" title="NICEST2 InfoBoard"></iframe>
 
 
 ***
